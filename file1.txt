@@ -2,3 +2,6 @@ this is file 1 contents
 updated another line 2 which is supposingly a small fix
 line 3 added with another small fix
 major fix added as part of line 4
+----------------------------------
+
+added new section now
